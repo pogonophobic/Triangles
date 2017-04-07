@@ -5,11 +5,13 @@ body{
   color: white
 }
 h1{
+  text-align: center;
   border-bottom: 1px solid white;
 }
 a{color: white;
   text-decoration: none;
 h2{
+  text-align: center;
   text-transformation: uppercase;
   font-size:15px;
  }
