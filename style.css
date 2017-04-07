@@ -4,6 +4,9 @@ body{
   padding: 100px;
   color: white
 }
+h1{
+  border-bottom: 1px solid white;
+}
 a{color: white;
   text-decoration: none;
 h2{
