@@ -1,0 +1,18 @@
+body{
+  font-family:"Courier New",Courier,monospace;
+  background-color: rgb(152,251,152);
+  padding: 100px;
+  color: white
+}
+a{color: white;
+  text-decoration: none;
+h2{
+  text-transformation: uppercase;
+  font-size:15px;
+ }
+#location-header{
+  border-top: 1px solid;
+  margin-top: 40px;
+  padding-top: 20px;
+}
+    
